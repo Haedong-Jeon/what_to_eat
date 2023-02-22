@@ -54,7 +54,9 @@ class MyApp extends StatelessWidget {
                   ),
                   home: LoaderOverlay(
                     child: BaseScaffold(
-                      body: Center(child: Lottie.asset("${LOTTIE_PATH}what_to_eat_main.json"),),
+                      body: Center(
+                        child: Lottie.asset(MAIN_LOTTIE_PATH),
+                      ),
                     ),
                   ),
                 ),

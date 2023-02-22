@@ -44,9 +44,10 @@ class _NoNetworkErrorBarState extends State<NoNetworkErrorBar> {
     if (Get.context == null) {
       return Container();
     }
+    double height = MediaQuery.of(Get.context!).size.height;
     return AnimatedContainer(
       width: double.maxFinite,
-      height: showNetworkError ? 100 : 0,
+      height: showNetworkError ? height*0.12 : 0,
       color: Colors.blueGrey,
       duration: const Duration(milliseconds: 350),
       child: SafeArea(
