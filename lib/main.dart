@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:loader_overlay/loader_overlay.dart';
+import 'package:what_to_eat/const/path/asset_path.dart';
 import 'package:what_to_eat/domain/event/network_event/network_event.dart';
 import 'package:what_to_eat/presentation/base/base_scaffold.dart';
 import 'package:what_to_eat/presentation/base/no_network_error_bar.dart';
 
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+
+import 'package:lottie/lottie.dart';
 
 void main() {
   NetworkEvent().startListen();
@@ -50,7 +53,9 @@ class MyApp extends StatelessWidget {
                     child: child!,
                   ),
                   home: LoaderOverlay(
-                    child: BaseScaffold(),
+                    child: BaseScaffold(
+                      body: Center(child: Lottie.asset("${LOTTIE_PATH}what_to_eat_main.json"),),
+                    ),
                   ),
                 ),
               ),
