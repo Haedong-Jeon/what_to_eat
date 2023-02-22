@@ -34,6 +34,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
 
   intl: ^0.17.0
   freezed: ^2.3.2
