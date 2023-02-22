@@ -1,4 +1,6 @@
 {
-  "@@locale": "ko"
- 
+  "@@locale": "ko",
+
+  "no_network_error": "인터넷 연결이 없습니다"
+
 }

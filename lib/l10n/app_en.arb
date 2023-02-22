@@ -1,5 +1,6 @@
 {
-  "@@locale": "en"
+  "@@locale": "en",
   
+  "no_network_error": "no internet"
 
 }

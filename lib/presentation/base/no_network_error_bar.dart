@@ -52,7 +52,7 @@ class _NoNetworkErrorBarState extends State<NoNetworkErrorBar> {
       child: SafeArea(
         child: Center(
           child: Text(
-            "",
+            AppLocalizations.of(Get.context!).no_network_error,
             style: const TextStyle(
               color: Colors.white,
               fontSize: 15,

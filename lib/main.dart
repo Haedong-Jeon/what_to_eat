@@ -41,7 +41,6 @@ class MyApp extends StatelessWidget {
                   supportedLocales: const [
                     Locale('en'), //영어
                     Locale('ko'), //한국어
-                    Locale("zh") //대만어(중국어 번체)
                   ],
                   builder: (context, child) => MediaQuery(
                     data: MediaQuery.of(context).copyWith(
