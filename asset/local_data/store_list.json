@@ -1,0 +1,162 @@
+[
+  {
+    "addr": "서울 강남구 테헤란로43길 19 1층",
+    "delivery": false,
+    "id": 0,
+    "name": "김둘레순대국(선릉)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 테헤란로 309 삼성제일빌딩 지하 1층",
+    "delivery": false,
+    "id": 1,
+    "name": "다인식당",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "",
+    "delivery": false,
+    "id": 2,
+    "name": "더드림 김치요리전문점",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 테헤란로 231 센터필드 EAST B2",
+    "delivery": false,
+    "id": 3,
+    "name": "더오일of쿠앤즈버킷(센터필드)",
+    "type": "cafe",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 선릉로90길 56",
+    "delivery": false,
+    "id": 4,
+    "name": "동해식당(선릉)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 역삼동 707-1",
+    "delivery": false,
+    "id": 5,
+    "name": "두꺼비매점",
+    "type": "convenience_store",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 테헤란로 316 메트라이프타워",
+    "delivery": false,
+    "id": 6,
+    "name": "롯데리아(선릉점)",
+    "type": "western",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 선릉로86길 8 지하 1층",
+    "delivery": false,
+    "id": 7,
+    "name": "마라테이블",
+    "type": "chinese",
+    "visit": true
+  },
+  {
+    "addr": "서울특별시 강남구 역삼동 706 1층",
+    "delivery": false,
+    "id": 8,
+    "name": "맘스터치랩(가든역삼점)",
+    "type": "western",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 언주로 508 지하 1층",
+    "delivery": false,
+    "id": 9,
+    "name": "매반생면(선릉점)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 테헤란로 326 역삼 아이타워",
+    "delivery": true,
+    "id": 10,
+    "name": "맥도날드(선릉점)",
+    "type": "western",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 강남대로94길 83",
+    "delivery": false,
+    "id": 11,
+    "name": "명동칼국수샤브샤브(역삼디오빌점)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 테헤란로 309 지하1층 9,10호",
+    "delivery": false,
+    "id": 12,
+    "name": "밀밭식당(선릉)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 삼성로 85길 33 현대썬앤빌 2층 201호",
+    "delivery": false,
+    "id": 13,
+    "name": "박성훈장(선릉본점)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 언주로 85길 13 상가 1층 112호 백암 순대, 감자탕",
+    "delivery": false,
+    "id": 14,
+    "name": "백암순대/감자탕(역삼점)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 선릉로 429",
+    "delivery": false,
+    "id": 15,
+    "name": "버거킹(선릉역점)",
+    "type": "western",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 언주로98길 13 1층",
+    "delivery": false,
+    "id": 16,
+    "name": "복이네",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 언주로85길 7 서원빌딩",
+    "delivery": false,
+    "id": 17,
+    "name": "북촌순두부&보쌈(역삼)",
+    "type": "korean",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 테헤란로 316 메트라이프타워 1층",
+    "delivery": false,
+    "id": 18,
+    "name": "사보텐(선릉역점)",
+    "type": "japanese",
+    "visit": true
+  },
+  {
+    "addr": "서울 강남구 선릉로93길 26 우리빌딩 1층",
+    "delivery": false,
+    "id": 19,
+    "name": "샐러디(선릉점)",
+    "type": "cafe",
+    "visit": true
+  }
+]
